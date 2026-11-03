@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Jay Manjrekar
-jmanjrekar@ucsd.edu
+Jay Manjrekar and Jaden Goelkel
